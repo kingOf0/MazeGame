@@ -7,9 +7,4 @@ Very simple maze game with python!
 * make real walls.
 
 ### The Maze
-[ ][ ][ ][ ][ ][ ]  
-[ ][ ][x][ ][ ][|]  
-[ ][ ][ ][ ][ ][ ]  
-[ ][ ][ ][ ][ ][ ]  
-[ ][ ][ ][ ][ ][ ]  
-[ ][ ][ ][ ][ ][ ]  
+![image](https://user-images.githubusercontent.com/44327892/147392589-9d1a3117-1a82-4467-b0a7-c50975add9d3.png)
